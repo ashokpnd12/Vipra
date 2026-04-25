@@ -1,0 +1,503 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|solutionrelative:vipra.api\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.api\\controllers\\panditjicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|solutionrelative:vipra.api\\controllers\\panditjicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|solutionrelative:vipra.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|solutionrelative:vipra.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.api\\controllers\\yajmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|solutionrelative:vipra.api\\controllers\\yajmancontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{61AAA4C4-42C2-66DF-53EB-FA0B6849F719}|Vipra.API\\Vipra.API.csproj|solutionrelative:vipra.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\services\\yajman\\yajmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\services\\yajman\\yajmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\services\\panditji\\panditjiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\services\\panditji\\panditjiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.domain\\entities\\panditji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|solutionrelative:vipra.domain\\entities\\panditji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.domain\\entities\\yajman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|solutionrelative:vipra.domain\\entities\\yajman.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\dtos\\yajman\\yajmanreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\dtos\\yajman\\yajmanreponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\dtos\\yajman\\updateyajmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\dtos\\yajman\\updateyajmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\dtos\\yajman\\createyajmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\dtos\\yajman\\createyajmandto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|solutionrelative:vipra.infrastructure\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|solutionrelative:vipra.infrastructure\\repository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\services\\yajman\\iyajmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\services\\yajman\\iyajmanservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\services\\panditji\\ipanditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\services\\panditji\\ipanditservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\dtos\\panditji\\createpanditjidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\dtos\\panditji\\createpanditjidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\dtos\\panditji\\panditjireponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\dtos\\panditji\\panditjireponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\dtos\\panditji\\updatepanditjidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\dtos\\panditji\\updatepanditjidto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.infrastructure\\vipra.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|solutionrelative:vipra.infrastructure\\vipra.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.application\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6F1FEB02-212F-4228-3413-037965A745A5}|Vipra.Application\\Vipra.Application.csproj|solutionrelative:vipra.application\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|solutionrelative:vipra.infrastructure\\appdbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F6DF333-CD1A-5202-233E-5205A1C484BD}|Vipra.Infrastructure\\Vipra.Infrastructure.csproj|solutionrelative:vipra.infrastructure\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.domain\\entities\\panditjispecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|solutionrelative:vipra.domain\\entities\\panditjispecialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.domain\\entities\\yajmanpanditji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|solutionrelative:vipra.domain\\entities\\yajmanpanditji.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|d:\\ashok\\project\\webapicore\\vipra\\vipra.domain\\entities\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E27F7E28-8908-2832-9229-EE35BEE420E8}|Vipra.Domain\\Vipra.Domain.csproj|solutionrelative:vipra.domain\\entities\\specialization.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".gitignore",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\.gitignore",
+              "RelativeDocumentMoniker": "Vipra.API\\.gitignore",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\.gitignore",
+              "RelativeToolTip": "Vipra.API\\.gitignore",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-04-25T18:12:21.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Vipra.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Vipra.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:33:54.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\DTOs\\LoginDto.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "Vipra.Application\\DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:32:00.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Program.cs",
+              "RelativeDocumentMoniker": "Vipra.API\\Program.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Program.cs",
+              "RelativeToolTip": "Vipra.API\\Program.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAwwB8AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:55:56.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PanditjiController.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Controllers\\PanditjiController.cs",
+              "RelativeDocumentMoniker": "Vipra.API\\Controllers\\PanditjiController.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Controllers\\PanditjiController.cs",
+              "RelativeToolTip": "Vipra.API\\Controllers\\PanditjiController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:32:00.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "YajmanController.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Controllers\\YajmanController.cs",
+              "RelativeDocumentMoniker": "Vipra.API\\Controllers\\YajmanController.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\Controllers\\YajmanController.cs",
+              "RelativeToolTip": "Vipra.API\\Controllers\\YajmanController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:05:06.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Panditji.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\Panditji.cs",
+              "RelativeDocumentMoniker": "Vipra.Domain\\Entities\\Panditji.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\Panditji.cs",
+              "RelativeToolTip": "Vipra.Domain\\Entities\\Panditji.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T09:59:27.021Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Mappings\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\Mappings\\MappingProfile.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Mappings\\MappingProfile.cs",
+              "RelativeToolTip": "Vipra.Application\\Mappings\\MappingProfile.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAswBkAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T14:34:33.036Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PanditjiService.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Panditji\\PanditjiService.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\Services\\Panditji\\PanditjiService.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Panditji\\PanditjiService.cs",
+              "RelativeToolTip": "Vipra.Application\\Services\\Panditji\\PanditjiService.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:49:03.694Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Vipra.API\\appsettings.json",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.API\\appsettings.json",
+              "RelativeToolTip": "Vipra.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-18T11:13:14.645Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "YajmanService.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Yajman\\YajmanService.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\Services\\Yajman\\YajmanService.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Yajman\\YajmanService.cs",
+              "RelativeToolTip": "Vipra.Application\\Services\\Yajman\\YajmanService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAACcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:56:43.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Yajman.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\Yajman.cs",
+              "RelativeDocumentMoniker": "Vipra.Domain\\Entities\\Yajman.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\Yajman.cs",
+              "RelativeToolTip": "Vipra.Domain\\Entities\\Yajman.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T10:02:00.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "YajmanReponseDto.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Yajman\\YajmanReponseDto.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\DTOs\\Yajman\\YajmanReponseDto.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Yajman\\YajmanReponseDto.cs",
+              "RelativeToolTip": "Vipra.Application\\DTOs\\Yajman\\YajmanReponseDto.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAQwAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T17:04:08.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UpdateYajmanDto.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Yajman\\UpdateYajmanDto.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\DTOs\\Yajman\\UpdateYajmanDto.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Yajman\\UpdateYajmanDto.cs",
+              "RelativeToolTip": "Vipra.Application\\DTOs\\Yajman\\UpdateYajmanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:58:41.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CreateYajmanDto.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Yajman\\CreateYajmanDto.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\DTOs\\Yajman\\CreateYajmanDto.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Yajman\\CreateYajmanDto.cs",
+              "RelativeToolTip": "Vipra.Application\\DTOs\\Yajman\\CreateYajmanDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:58:16.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Vipra.Infrastructure\\UnitOfWork.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\UnitOfWork.cs",
+              "RelativeToolTip": "Vipra.Infrastructure\\UnitOfWork.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAAA8AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:03:56.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Repository.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\Repository.cs",
+              "RelativeDocumentMoniker": "Vipra.Infrastructure\\Repository.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\Repository.cs",
+              "RelativeToolTip": "Vipra.Infrastructure\\Repository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAQAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:39:11.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IYajmanService.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Yajman\\IYajmanService.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\Services\\Yajman\\IYajmanService.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Yajman\\IYajmanService.cs",
+              "RelativeToolTip": "Vipra.Application\\Services\\Yajman\\IYajmanService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-25T16:55:01.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IPanditService.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Panditji\\IPanditService.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\Services\\Panditji\\IPanditService.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\Services\\Panditji\\IPanditService.cs",
+              "RelativeToolTip": "Vipra.Application\\Services\\Panditji\\IPanditService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:09:40.956Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "CreatePanditjiDto.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Panditji\\CreatePanditjiDto.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\DTOs\\Panditji\\CreatePanditjiDto.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Panditji\\CreatePanditjiDto.cs",
+              "RelativeToolTip": "Vipra.Application\\DTOs\\Panditji\\CreatePanditjiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:17:10.519Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "PanditjiReponseDto.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Panditji\\PanditjiReponseDto.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\DTOs\\Panditji\\PanditjiReponseDto.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Panditji\\PanditjiReponseDto.cs",
+              "RelativeToolTip": "Vipra.Application\\DTOs\\Panditji\\PanditjiReponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:21:39.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UpdatePanditjiDto.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Panditji\\UpdatePanditjiDto.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\DTOs\\Panditji\\UpdatePanditjiDto.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\DTOs\\Panditji\\UpdatePanditjiDto.cs",
+              "RelativeToolTip": "Vipra.Application\\DTOs\\Panditji\\UpdatePanditjiDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T13:22:41.179Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Vipra.Infrastructure.csproj",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\Vipra.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Vipra.Infrastructure\\Vipra.Infrastructure.csproj",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\Vipra.Infrastructure.csproj",
+              "RelativeToolTip": "Vipra.Infrastructure\\Vipra.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-25T16:08:23.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\IUnitOfWork.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\IUnitOfWork.cs",
+              "RelativeToolTip": "Vipra.Application\\IUnitOfWork.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:37:57.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\IRepository.cs",
+              "RelativeDocumentMoniker": "Vipra.Application\\IRepository.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Application\\IRepository.cs",
+              "RelativeToolTip": "Vipra.Application\\IRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:36:34.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "AppDbContextFactory.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeDocumentMoniker": "Vipra.Infrastructure\\AppDbContextFactory.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\AppDbContextFactory.cs",
+              "RelativeToolTip": "Vipra.Infrastructure\\AppDbContextFactory.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T11:21:20.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Vipra.Infrastructure\\AppDbContext.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Infrastructure\\AppDbContext.cs",
+              "RelativeToolTip": "Vipra.Infrastructure\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T10:04:51.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "YajmanPanditji.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\YajmanPanditji.cs",
+              "RelativeDocumentMoniker": "Vipra.Domain\\Entities\\YajmanPanditji.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\YajmanPanditji.cs",
+              "RelativeToolTip": "Vipra.Domain\\Entities\\YajmanPanditji.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwAkAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T10:02:24.671Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "PanditjiSpecialization.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\PanditjiSpecialization.cs",
+              "RelativeDocumentMoniker": "Vipra.Domain\\Entities\\PanditjiSpecialization.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\PanditjiSpecialization.cs",
+              "RelativeToolTip": "Vipra.Domain\\Entities\\PanditjiSpecialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T10:01:13.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Specialization.cs",
+              "DocumentMoniker": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\Specialization.cs",
+              "RelativeDocumentMoniker": "Vipra.Domain\\Entities\\Specialization.cs",
+              "ToolTip": "D:\\Ashok\\Project\\WebApiCore\\Vipra\\Vipra.Domain\\Entities\\Specialization.cs",
+              "RelativeToolTip": "Vipra.Domain\\Entities\\Specialization.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-18T10:00:38.011Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

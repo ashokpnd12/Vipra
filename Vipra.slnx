@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Vipra.API/Vipra.API.csproj" />
+  <Project Path="Vipra.Application/Vipra.Application.csproj" />
+  <Project Path="Vipra.Domain/Vipra.Domain.csproj" />
+  <Project Path="Vipra.Infrastructure/Vipra.Infrastructure.csproj" />
+</Solution>

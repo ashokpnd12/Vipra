@@ -1,0 +1,11 @@
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\bin\Debug\net10.0\Vipra.Domain.deps.json
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\bin\Debug\net10.0\Vipra.Domain.dll
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\bin\Debug\net10.0\Vipra.Domain.pdb
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\Vipra.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\Vipra.Domain.AssemblyInfoInputs.cache
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\Vipra.Domain.AssemblyInfo.cs
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\Vipra.Domain.csproj.CoreCompileInputs.cache
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\Vipra.Domain.dll
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\refint\Vipra.Domain.dll
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\Vipra.Domain.pdb
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Domain\obj\Debug\net10.0\ref\Vipra.Domain.dll
