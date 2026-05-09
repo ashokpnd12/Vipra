@@ -7,6 +7,8 @@ using Vipra.Application.DTOs;
 
 namespace Vipra.API.Controllers
 {
+    [Route("api/[controller]")]
+    [ApiController]
     public class AuthController : ControllerBase
     {
         private readonly IConfiguration _configuration;
