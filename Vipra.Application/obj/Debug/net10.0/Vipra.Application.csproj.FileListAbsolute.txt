@@ -8,6 +8,7 @@ D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\Vipra.Appl
 D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\Vipra.Application.AssemblyInfoInputs.cache
 D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\Vipra.Application.AssemblyInfo.cs
 D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\Vipra.Application.csproj.CoreCompileInputs.cache
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\Vipra.Application.sourcelink.json
 D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\Vipra.Ap.4D8E1772.Up2Date
 D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\Vipra.Application.dll
 D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Debug\net10.0\refint\Vipra.Application.dll

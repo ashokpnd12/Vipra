@@ -1,0 +1,16 @@
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\bin\Release\net10.0\Vipra.Application.deps.json
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\bin\Release\net10.0\Vipra.Application.dll
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\bin\Release\net10.0\Vipra.Application.pdb
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\bin\Release\net10.0\Vipra.Domain.dll
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\bin\Release\net10.0\Vipra.Domain.pdb
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.csproj.AssemblyReference.cache
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.AssemblyInfoInputs.cache
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.AssemblyInfo.cs
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.csproj.CoreCompileInputs.cache
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.sourcelink.json
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Ap.4D8E1772.Up2Date
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.dll
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\refint\Vipra.Application.dll
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\Vipra.Application.pdb
+D:\Ashok\Project\WebApiCore\Vipra\Vipra.Application\obj\Release\net10.0\ref\Vipra.Application.dll
